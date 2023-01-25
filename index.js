@@ -2,7 +2,7 @@ console.log('Javascript Funcionando');
 
 let firstName = 'George';
 let lastName = 'Chagas'
-let eyeColor = 'Azuis'
+let eyeColor = 'castanhos'
 let peleCor = 'Branca'
 console.log(firstName);
 console.log(lastName);
