@@ -1,10 +1,5 @@
-console.log('Javascript Funcionando');
+function percentage10(price) {
+    return price - (price * 10/100)
+}
 
-let firstName = 'George';
-let lastName = 'Chagas'
-let eyeColor = 'castanhos'
-let peleCor = 'Branca'
-console.log(firstName);
-console.log(lastName);
-console.log(eyeColor);
-console.log(peleCor);
+console.log(percentage10(30))
